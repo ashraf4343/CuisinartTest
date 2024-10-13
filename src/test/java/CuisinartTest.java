@@ -48,8 +48,8 @@ public class CuisinartTest {
         System.out.println("Page title: " + pageTitle);
         assertTrue(pageTitle.contains("Cuisinart")); // Replace with actual expected title
     }
-
     @Test
+
     @DisplayName("Verify Navigation and Functionality on Cuisinart Home Page")
     public void testHomePage() throws InterruptedException {
 
@@ -1057,7 +1057,8 @@ public class CuisinartTest {
         driver.quit(); // Properly close the browser after tests are complete
     }
 
-}
+    }
+
 
 
 
