@@ -34,8 +34,7 @@
   ```     
 
 ## Allure Report Screenshots:
-
-[image](https://github.com/user-attachments/assets/61dcfe5a-0ab2-4c8d-b62b-89c9b1c1f995)
+![image](https://github.com/user-attachments/assets/61dcfe5a-0ab2-4c8d-b62b-89c9b1c1f995)
 ![image](https://github.com/user-attachments/assets/27498beb-8fbe-4d62-8a37-fbd2597eacfb)
 ![image](https://github.com/user-attachments/assets/8c723f0f-83ca-48b8-b96e-8c764fcad776)
 ![image](https://github.com/user-attachments/assets/26cc978b-4cac-4edf-9234-a4ace0e0cb5d)
