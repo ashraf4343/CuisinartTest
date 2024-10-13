@@ -5,8 +5,8 @@
 
 
 ## Scenario:
-1. Visit the site: [https://www.walltouchbd.com/](https://storefront:conair1@stage.cuisinart.com/)
-2. Do log-in with valid credential
+1. Visit the site: https://storefront:conair1@stage.cuisinart.com/
+2.  Do log-in with valid credential
 4. Check the front Page
 5. Click search button
 6. Select the first search result
