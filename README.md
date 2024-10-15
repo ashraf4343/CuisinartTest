@@ -1,6 +1,7 @@
 # Web Automation on Cuisinart Test Website with Selenium JUnit5
 
 ## Video Output:
+[cf530b40-d900-4035-ba1d-4bc1ca5e08bf.webm](https://github.com/user-attachments/assets/535a41be-d857-4687-994c-f92120ca7912)
 
 
 
